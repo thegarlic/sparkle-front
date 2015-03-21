@@ -1,12 +1,16 @@
 # sparkle-front
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+sparkle 게시판의 프론트 버전입니다.
 
-## Build & development
+## 빌드 방법, 서버 실행방법
 
-Run `grunt` for building and `grunt serve` for preview.
+커멘드 라인에서 `grunt` 를 입력하여 빌드할 수 있습니다.  
+커멘드 라인에서 `grunt server` 서버를 실행할 수 있습니다.
 
-## Testing
+## 접속
 
-Running `grunt test` will run the unit tests with karma.
+서버를 실행한 후 [http://localhost:9000/board]로 접근합니다.
+
+## 테스트 방법
+
+커멘드 라인에서 `grunt test` 를 실행하여 유닛 테스트가 가능합니다.
