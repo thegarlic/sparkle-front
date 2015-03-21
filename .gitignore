@@ -7,3 +7,6 @@ bower_components
 #jetbrain
 .idea
 *.iml
+
+#macos
+.DS_Store
