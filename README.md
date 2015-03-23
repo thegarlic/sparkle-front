@@ -10,7 +10,7 @@ sparkle 게시판의 프론트 버전입니다.
 3. node dependency : `npm install`
 4. grunt 설치 : `npm install -g grunt-cli`
 5. bower 설치 : `npm install -g bower`
-6. bower dependency : `bower init`
+6. bower dependency : `bower install`
 
 ## 빌드 방법, 서버 실행방법
 
