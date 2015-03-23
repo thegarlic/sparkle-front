@@ -7,10 +7,10 @@ sparkle 게시판의 프론트 버전입니다.
 
 1. nodejs 설치(https://nodejs.org/) 
 2. git-scm 설치(http://git-scm.com/downloads)
-3. node dependency : 'npm install'
-4. grunt 설치 : 'npm install -g grunt-cli'
-5. bower 설치 : 'npm install -g bower'
-6. bower dependency : 'bower init'
+3. node dependency : `npm install`
+4. grunt 설치 : `npm install -g grunt-cli`
+5. bower 설치 : `npm install -g bower`
+6. bower dependency : `bower init`
 
 ## 빌드 방법, 서버 실행방법
 
